@@ -4,7 +4,7 @@
 
 On June 11 2019 Radiohead released a bunch of music that had been stolen from them as a result of hacking activity. The [official release](https://radiohead.bandcamp.com) of the stolen music (a total of 18 minidiscs) was made available for with the proceeds going to [Extinction Rebellion.](https://rebellion.earth)
 
-The collection was released as a series of files, one for each minidisc. I wanted to split the files up into tracks, treating each mini-disc as an album in the collection. I also wanted to do it in a way that I could make changes to the "albums" later when I have listened to everything and want to make changes to the outputted "albums". 
+The collection was released as a series of files, one for each minidisc. I wanted to split the files up into tracks, treating each mini-disc as an album in the collection. I also wanted to do it in a way that I could make changes to the "albums" later when I have listened to everything and want to make changes to the outputted "albums".
 
 So I put together the process described below.
 
@@ -59,7 +59,7 @@ If you want to change the name of any tracks before processing them through Auda
 
 ## Curating your own collection
 
-If you want to make more substantial changes to the outputted tracks (e.g., trim them to specific timestamps, only export certain tracks...) open the Excel workbook to make changes.
+If you want to make more substantial changes to the outputted tracks (e.g., trim them to specific timestamps, only export certain tracks...) open the Excel or .ODS workbook (same content) to make changes.
 
 - Change columns A:B to adjust what timestamps are used to cut audio files up. You do not have to account for every second of audio; anything that is outside of or between these ranges will not be processed by Audacity.
 - Do not edit columns C:D. These columns calculate timestamps in plain seconds based on the HH:MM:SS timestamps in columns A:B.
