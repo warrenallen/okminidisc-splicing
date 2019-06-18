@@ -1,0 +1,12 @@
+0	92	Organ Intro
+92	351	No Surprises Please
+351	657	True Love Waits (Prog)
+657	871	Soft Pain I
+871	1093	Soft Pain OO
+1093	1635	Paranoid Android
+1635	1955	Motion Picture Soundtrack
+1955	2279	Motion Picture Soundtrack
+2279	2587	Airbag I
+2587	2878	Airbag II
+2878	3195	Tourists
+3195	3442	Silicon Valley

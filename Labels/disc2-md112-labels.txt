@@ -1,0 +1,20 @@
+0	180	No Surprises Please (Lyon)
+180	335	Risk Of Suffocation
+335	516	Girl Club 2
+516	735	Ride A Pony
+735	786	(Chateau Birds)
+786	949	Umbilical
+949	1170	Poison Lake
+1170	1257	Get Together #2
+1257	1314	Get Together
+1314	1523	(Prague Train)
+1523	1563	(Bus Home)
+1563	1776	Annoying Neighbors
+1776	2085	Motion Picture Soundtrack
+2085	2206	Amazing Drums For Exit Music
+2206	2248	My New Clothes
+2248	2544	Let Down (Not Listed On Disc)
+2544	3141	Motion Picture Soundtrack (Not Listed On Disc)
+3141	3393	My New Clothes (Not Listed On Disc)
+3393	3600	My New Clothes Take 2 (Not Listed On Disc)
+3600	3687	Aaaaaaaaaaaaaahhhhh (Not Listed On Disc)

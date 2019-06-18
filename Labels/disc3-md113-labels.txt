@@ -1,0 +1,22 @@
+0	70	I Promise (NY)
+70	280	Motion Picture Soundtrack (D.C.)
+280	542	I Promise (LA)
+542	784	Nude
+784	826	Monk Noise
+826	896	Moog
+896	943	Is3000
+943	1037	Soft Pain
+1037	1122	Soft Pain 2
+1122	1347	Soft Pain
+1347	1565	Thomas Pynchon
+1565	1724	Maybe
+1724	1881	Soft Pain Vox
+1881	2121	Soft Pain 4
+2121	2296	Oranges
+2296	2555	$island
+2555	2819	Exit Music (Not Mentioned On Artwork - 8-Jul Session)
+2819	2912	Paranoid Android (Not Mentioned On Artwork - 8-Jul Session)
+2912	3113	No Surprises (Not Mentioned On Artwork - 8-Jul Session)
+3113	3409	Messy Jam
+3409	3732	Soft 5
+3732	3908	(Thom Solo Song Not Mentioned On Artwork) 

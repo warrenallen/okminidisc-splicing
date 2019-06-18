@@ -1,0 +1,22 @@
+0	99	Poison
+99	333	I Promise (Portland)
+333	636	Attenzione! (Portland)
+636	786	Electioneering
+786	939	Lift (Toronto)
+939	1333	TRUE Love Waits
+1333	1410	Not For Sale
+1410	1451	Film
+1451	1694	Lift (San Francisco)
+1694	1917	Electioneering (San Francisco)
+1917	2180	I Promise (LA)
+2180	2240	Vacancies
+2240	2283	$alty
+2283	2594	Airbag (Acoustic)
+2594	2898	Airbag (Toronto)
+2898	3141	I Promise (Minneapolis)
+3141	3191	Lifesaver
+3191	3434	I Promise (Toronto)
+3434	3648	Electioneering (Toronto)
+3648	3928	Paranoid Android
+3928	4053	Airbag
+4053	4247	Electioneering 

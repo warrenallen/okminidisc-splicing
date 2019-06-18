@@ -1,0 +1,7 @@
+0	234	Silicon Valley (Acoustic Demo Sequence, Early Palo Alto)
+234	342	1000 Miles (Acoustic Demo, Early Exit Music)
+342	454	Lift (Live, Labeled As In Seattle)
+454	555	This Is The Panic Office (Acoustic Demo)
+555	668	Harmonics Riff (Acoustic Demo)
+668	913	Lay Off The Beef (Acoustic Demo)
+913	1072	Polyethylene (Acoustic Demo, Unlabeled On The Minidisc)

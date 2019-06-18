@@ -1,0 +1,16 @@
+0	287	Airbag
+287	671	Paranoid Android
+671	940	Subterranean Homesick Alien
+940	1209	Exit Music
+1209	1435	Let Down
+1435	1556	Fitter, Happier
+1556	1841	Climbing Up The Walls
+1841	2068	No Surprises
+2068	2301	Electioneering
+2301	2561	Lucky
+2561	2824	Karma Police
+2824	3151	The Tourist
+3151	3385	A Reminder
+3385	3615	Lift (alternate version, alternate mix 1)
+3615	3795	Lift (alternate version, alternate mix 2)
+3795	4084	Polyethylene
